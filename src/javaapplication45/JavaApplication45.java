@@ -26,6 +26,7 @@ public class JavaApplication45 {
         lista.add(35);
         lista.add(58);
         lista.add(45);
+        lista.add(23);
         System.out.println("ola");
         lista.forEach(i -> {
             System.out.println(i);
